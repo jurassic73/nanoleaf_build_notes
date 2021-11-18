@@ -1,6 +1,6 @@
 # nanoleaf_build_notes
 
-Figure out your layout to know what pieces you want to print for the covers since they have holes on 1, 2 or 3 sides.  The holes are where the leaves sit against eachother and wire passes through.  Also figure out if you want all white leafs or to print the sides of the leaf black or some other color.  We went with black and white for our leaf covers and white for the bases to help the light reflect.  We went with black on the sides so the light didn't leak out that way. The leafs use 12 LEDs each.  At ten leafs, we were drawing around 1.7A at 5V.  We used a 3A 5V adapter to power it.
+Figure out your layout to know what pieces you want to print for the covers since they have holes on 1, 2 or 3 sides.  The holes are where the leafs sit against eachother and wire passes through.  Also figure out if you want all white leafs or to print the sides of the leaf black or some other color.  We went with black and white for our leaf covers and white for the bases to help the light reflect.  We went with black on the sides so the light didn't leak out that way. The leafs use 12 LEDs each.  At ten leafs, we were drawing around 1.7A at 5V.  We used a 3A 5V adapter to power it.
 
 This was our first build - https://www.thingiverse.com/make:738464
 
@@ -17,7 +17,7 @@ https://www.thingiverse.com/thing:3354082/files
 Next, you want to print the leaf bases and wiring box.  I used these files... I redesigned the original leaf for easier wiring and designed this new box:
 https://www.thingiverse.com/thing:4058966
 
-Also print this alignment tool (you'll use it when mounting your leaves on the backboard).  I designed it while building our sets to help line up the leaf backs on the mounting board(the nano leaf designer also added my file to his link above).  This helps ensure you have room to install your covers and no gaps between the leafs once installed.<br>
+Also print this alignment tool (you'll use it when mounting your leafs on the backboard).  I designed it while building our sets to help line up the leaf backs on the mounting board(the nano leaf designer also added my file to his link above).  This helps ensure you have room to install your covers and no gaps between the leafs once installed.<br>
 https://www.thingiverse.com/thing:4044306
 
 I designed this tool to score the ends of the wire jumpers at a given length so you can easily remove the ends of the wire jacket with the proper length for soldering.  There's a short video in there on how to use it.  Works awesome for any LED strip wiring needing soldering.<br>
