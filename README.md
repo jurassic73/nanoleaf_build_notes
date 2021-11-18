@@ -1,6 +1,6 @@
 # nanoleaf_build_notes
 
-First, you'll want to figure out your layout to know what pieces you want to print for the covers since they have holes on 1, 2 or 3 sides.  The holes are where the leafs sit against eachother and wire passes through.  Also figure out if you want all white leafs or to print the sides of the leaf black or some other color.  We went with black and white for our leaf covers and white for the bases to help the light reflect.  We went with black on the sides so the light didn't leak out that way so the leaf light is more defined on the wall. The leafs use 12 LEDs each.  At ten leafs, we were drawing around 1.7A at 5V.  We used a 3A 5V adapter to power it.  Wemos D1 mini device has wifi and runs software so you can connect to it and change colors and light patterns.
+First, you'll want to figure out your layout to know what pieces you want to print for the covers since they have holes on 1, 2 or 3 sides.  The holes are where the leafs sit against eachother and wire passes through.  Also figure out if you want all white leafs or to print the sides of the leaf black or some other color.  We went with black on the sides and white faces for our leaf covers and white for the bases to help the light reflect.  We went with black on the sides of the leaf so the light didn't leak out.  That way, the leaf light is more defined on the wall. The leafs use 12 LEDs each.  At ten leafs, we were drawing around 1.7A at 5V.  We used a 3A 5V adapter to power it.  The Wemos D1 mini device has wifi and runs software with a web server so you can connect to it and change colors and light patterns.
 
 This was our first build - https://www.thingiverse.com/make:738464
 
@@ -8,7 +8,7 @@ You can check out the other makes for inspiration - https://www.thingiverse.com/
 
 Stuff to print
 
-Use the following files for your leaf fronts.  Quantities will depend on your layout.  You will slice these with a filament change to print the face white and then the rest black.<br>
+Use the following files for your leaf fronts.  Quantities will depend on your layout as noted above.  You will slice these with a filament change to print the face white and then the rest black.<br>
 Top_PLA_1_hole.stl<br>
 Top_PLA_2_hole.stl<br>
 Top_PLA_3_hole.stl<br>
@@ -17,11 +17,11 @@ https://www.thingiverse.com/thing:3354082/files
 Next, you want to print the leaf bases and wiring box.  I used these files... I redesigned the original leaf for easier wiring and designed this new box:
 https://www.thingiverse.com/thing:4058966. There is also the orignal version of the box on the main nano leaf replica page above with the wiring instructions.  That is an option too.
 
-Also print this alignment tool (you'll use it when mounting your leafs on the backboard).  I designed it while building our sets to help line up the leaf backs on the mounting board(the nano leaf designer also added my file to his link above).  This helps ensure you have room to install your covers and no gaps between the leafs once installed.<br>
-https://www.thingiverse.com/thing:4044306
+https://www.thingiverse.com/thing:4044306<br>
+Print this alignment tool (you'll use it when mounting your leafs on the backboard).  I designed it while building our sets to help line up the leaf backs on the mounting board.  This helps ensure you have room to install your covers and no gaps remain between the leafs once installed.<br>
 
-I designed this tool to score the ends of the wire jumpers at a given length so you can easily remove the ends of the wire jacket with the proper length for soldering.  There's a short video in there on how to use it.  Works awesome for any LED strip wiring needing soldering.<br>
-https://www.thingiverse.com/thing:4054698
+https://www.thingiverse.com/thing:4054698<br>
+I designed this tool to score the ends of the wire jumpers at a given length so you can easily remove the ends of the wire jacket with the proper length for tinning and soldering.  There's a short video in there on how to use it.  Works awesome for any LED strip wiring needing soldering.<br>
 
 Think that does it for items to print.
 
