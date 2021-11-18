@@ -21,7 +21,7 @@ https://www.thingiverse.com/thing:4044306<br>
 Print this alignment tool (you'll use it when mounting your leafs on the backboard).  I designed it while building our sets to help line up the leaf backs on the mounting board.  This helps ensure you have room to install your covers and no gaps remain between the leafs once installed.<br>
 
 https://www.thingiverse.com/thing:4054698<br>
-I designed this tool to score the ends of the wire jumpers at a given length so you can easily remove the ends of the wire jacket with the proper length for tinning and soldering.  There's a short video in there on how to use it.  Works awesome for any LED strip wiring needing soldering.<br>
+I designed this tool to score the ends of the wire jumpers at a given length so you can easily remove the ends of the wire jacket with the proper length for tinning and soldering.  I printed this using PETG.  There's a short video in there on how to use it.  Works awesome for any LED strip wiring needing soldering.<br>
 
 Think that does it for items to print.
 
