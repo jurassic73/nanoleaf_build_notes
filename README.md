@@ -41,7 +41,7 @@ Filament - I used PLA.  Has held up nicely.  The LEDs don't get hot so no worrie
 (1) utility razor (these are like (100) for $7 at Home Depot or Amazon last I checked) - links in the tool build link above<br>
 (2) 10mm M3 screws<br>
 
-I also used foil tape to tape down my wires crossing leafs else they case shadows when the leaf covers were on.
+I also used foil tape to tape down my wires flat when crossing leafs internally else they cast shadows when the leaf covers were on.  I imagine a hot glue gun may work for this as well.
 
 I thing I used 10mm M3 screws and nuts to connect the electronic box to the leaf.  I started with a metric hardware set like this: <br>https://www.amazon.com/dp/B08RS9467Q/. Then I started just ordering hardware from aliexpress by the ten count and it's not bad pricewise.
 
