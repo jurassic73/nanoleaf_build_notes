@@ -39,3 +39,10 @@ Filament - I used PLA.  Has held up nicely.  The LEDs don't get hot so no worrie
 (1) DC power jack - https://www.aliexpress.com/item/32997902659.html?spm=a2g0s.9042311.0.0.3a744c4dW4lHVg
 (1) DC power adapter (5v @ 3A) - https://www.aliexpress.com/item/32911055744.html
 (1) utility razor (these are like (100) for $7 at Home Depot or Amazon last I checked) - links in the tool build link above
+(2) 10mm M3 screws
+
+I thing I used 10mm M3 screws and nylock nuts to connect the electronic box to the leaf.  I started with a metric hardware set like this: https://www.amazon.com/dp/B08RS9467Q/. Then I started just ordering hardware from aliexpress by the ten count and it's not bad pricewise.
+
+https://www.aliexpress.com/item/10000150053486.html
+
+You can also buy nylock nuts and washers this same way.  I replenish my hardware drawers when needed.  Having all these small orders show up over time works out well to keep your builder supply stocked.  You can buy heat shrink in all different sizes on there too.  For like $15, you could get six different sizes and be stocked for a long time.
