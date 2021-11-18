@@ -1,6 +1,6 @@
 # nanoleaf_build_notes
 
-First, you'll want to figure out your layout to know what pieces you want to print for the covers since they have holes on 1, 2 or 3 sides.  The holes are where the leafs sit against eachother and wire passes through.  Also figure out if you want all white leafs or to print the sides of the leaf black or some other color.  We went with black and white for our leaf covers and white for the bases to help the light reflect.  We went with black on the sides so the light didn't leak out that way. The leafs use 12 LEDs each.  At ten leafs, we were drawing around 1.7A at 5V.  We used a 3A 5V adapter to power it.
+First, you'll want to figure out your layout to know what pieces you want to print for the covers since they have holes on 1, 2 or 3 sides.  The holes are where the leafs sit against eachother and wire passes through.  Also figure out if you want all white leafs or to print the sides of the leaf black or some other color.  We went with black and white for our leaf covers and white for the bases to help the light reflect.  We went with black on the sides so the light didn't leak out that way so the leaf light is more defined on the wall. The leafs use 12 LEDs each.  At ten leafs, we were drawing around 1.7A at 5V.  We used a 3A 5V adapter to power it.  Wemos D1 mini device has wifi and runs software so you can connect to it and change colors and light patterns.
 
 This was our first build - https://www.thingiverse.com/make:738464
 
@@ -15,7 +15,7 @@ Top_PLA_3_hole.stl<br>
 https://www.thingiverse.com/thing:3354082/files
 
 Next, you want to print the leaf bases and wiring box.  I used these files... I redesigned the original leaf for easier wiring and designed this new box:
-https://www.thingiverse.com/thing:4058966
+https://www.thingiverse.com/thing:4058966. There is also the orignal version of the box on the main nano leaf replica page above with the wiring instructions.  That is an option too.
 
 Also print this alignment tool (you'll use it when mounting your leafs on the backboard).  I designed it while building our sets to help line up the leaf backs on the mounting board(the nano leaf designer also added my file to his link above).  This helps ensure you have room to install your covers and no gaps between the leafs once installed.<br>
 https://www.thingiverse.com/thing:4044306
@@ -50,3 +50,5 @@ You can also buy nylock nuts and washers this same way.  I replenish my hardware
 Tool suggestions...<br>
 https://github.com/jurassic73/split89#my-tools<br>
 https://github.com/jurassic73/split89#tool-suggestions
+
+Programming the Wemos D1 mini... there's notes on the Thingiverse Nanoleaf Replica page and you use the Arduino IDE but I can help if you want to cut down on the time to program it.
