@@ -31,7 +31,8 @@ Filament - I used PLA.  Has held up nicely.  The LEDs don't get hot so no worrie
 (1) Roll White 1.75mm PLA<br>
 (1) Roll Black 1.75mm PLA<br>
 (1) Roll Silver 1.75mm PLA(you don't have to print the electronics box in silver but I found it blended in better and a roll of silver came with my printer)<br>
-(?) 1/2" #6 wood screws<br>
+(?) 60 LED/meter LED Strip - IP30 non-waterproof(no rubberized cover) WS2812B addressable lights.  12 LEDs per leaf.<br>
+(?) ft 22AWG 3 pin LED connection wire - https://www.amazon.com/BTF-LIGHTING-Electrical-Extension-Connection-Changing/dp/B07SKGTCWQ/<br>(?) 1/2" #6 wood screws<br>
 1/2" plywood - size depends on layout<br>
 (2) saw tooth picture hangers<br>
 (1) Wemos D1 mini (like this - https://www.amazon.com/ACEIRMC-ESP8266-ESP-12F-Internet-Development/dp/B08FQYZX37/). Aliexpress is the cheapest if you have time to wait for the shipments. :)<br>
@@ -39,7 +40,6 @@ Filament - I used PLA.  Has held up nicely.  The LEDs don't get hot so no worrie
 (1) DC power adapter (5v @ 3A) - https://www.aliexpress.com/item/32911055744.html<br>
 (1) utility razor (these are like (100) for $7 at Home Depot or Amazon last I checked) - links in the tool build link above<br>
 (2) 10mm M3 screws<br>
-(?) 60 LED/meter LED Strip - IP30 non-waterproof(no rubberized cover) WS2812B addressable lights.  12 LEDs per leaf.<br>
 
 I thing I used 10mm M3 screws and nuts to connect the electronic box to the leaf.  I started with a metric hardware set like this: <br>https://www.amazon.com/dp/B08RS9467Q/. Then I started just ordering hardware from aliexpress by the ten count and it's not bad pricewise.
 
