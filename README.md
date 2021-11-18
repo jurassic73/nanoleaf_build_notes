@@ -26,8 +26,8 @@ I designed this tool to score the ends of the wire jumpers at a given length so 
 Think that does it for items to print.
 
 Bill of Materials<br>
-Filament - I used PLA.  Has held up nicely.  The LEDs don't get hot so no worries on heat.
-
+Quantities in question will be determined by your specifc build requirements.<br>
+Filament - I used PLA.  Has held up nicely.  The LEDs don't get hot so no worries on heat.<br>
 (1) Roll White 1.75mm PLA<br>
 (1) Roll Black 1.75mm PLA<br>
 (1) Roll Silver 1.75mm PLA(you don't have to print the electronics box in silver but I found it blended in better and a roll of silver came with my printer)<br>
@@ -40,6 +40,8 @@ Filament - I used PLA.  Has held up nicely.  The LEDs don't get hot so no worrie
 (1) DC power adapter (5v @ 3A) - https://www.aliexpress.com/item/32911055744.html<br>
 (1) utility razor (these are like (100) for $7 at Home Depot or Amazon last I checked) - links in the tool build link above<br>
 (2) 10mm M3 screws<br>
+
+I also used foil tape to tape down my wires crossing leafs else they case shadows when the leaf covers were on.
 
 I thing I used 10mm M3 screws and nuts to connect the electronic box to the leaf.  I started with a metric hardware set like this: <br>https://www.amazon.com/dp/B08RS9467Q/. Then I started just ordering hardware from aliexpress by the ten count and it's not bad pricewise.
 
