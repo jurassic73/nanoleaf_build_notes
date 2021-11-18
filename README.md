@@ -1,5 +1,7 @@
 # nanoleaf_build_notes
 
+https://www.thingiverse.com/thing:3354082
+
 First, you'll want to figure out your layout to know what pieces you want to print for the covers since they have holes on 1, 2 or 3 sides.  The holes are where the leafs sit against eachother and wire passes through.  Also figure out if you want all white leafs or to print the sides of the leaf black or some other color.  We went with black on the sides and white faces for our leaf covers and white for the bases to help the light reflect.  We went with black on the sides of the leaf so the light didn't leak out.  That way, the leaf light is more defined on the wall. The leafs use 12 LEDs each.  At ten leafs, we were drawing around 1.7A at 5V.  We used a 3A 5V adapter to power it.  The Wemos D1 mini device has wifi and runs software with a web server so you can connect to it and change colors and light patterns.
 
 This was our first build - https://www.thingiverse.com/make:738464
